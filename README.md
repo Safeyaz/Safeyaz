@@ -1,4 +1,5 @@
-Hi there, my name is Safeya, and I'm a final-year student of Computer Science Engineering.
+Hi there, my name is Safeya, and I'm a final-year student of Computer Science Engineering.  
+
   *I enjoy coffee and having lengthy discussions about the universe (quantum physics and cosmology keep me up at night* :))
  
 📍Cutesy stuff I did:
