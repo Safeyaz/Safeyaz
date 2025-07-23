@@ -16,6 +16,7 @@ Feel free to connect if you'd like to chat, collaborate, or geek out about space
 Cheers!
 Safeya 🌼
 
-Ps. You can reach out to me at safeyazawath@gmail.com
+*Ps. You can reach out to me at* safeyazawath@gmail.com  
+
 Here's my linkedin profile:
 www.linkedin.com/in/safeya-zawath-zakir-154458258
