@@ -6,9 +6,8 @@ Hi there, my name is Safeya, and I'm a final-year student of Computer Science En
 - **Section Leader, Stanford: Code in Place**  
  Guided multiple teams of students selected for the program and taught them the fundamentals of programming.
  
-- **Research Intern, IA Portugal Summer Research Assistant**
-  
- Worked on a science communication project focused on astronomy education, and designed a research poster to make complex concepts accessible to all.
+- **Research Intern, IA Portugal Summer Research Assistant**  
+  Worked on a science communication project focused on astronomy education, and designed a research poster to make complex concepts accessible to all.
 
 - I experimented with front-end development and created responsive websites. I took part in hackathons, which were great for testing teamwork, creativity, and working under pressure.
 
