@@ -11,7 +11,7 @@ Hi there, my name is Safeya, and I'm a final-year student of Computer Science En
 
 - I experimented with front-end development and created responsive websites. I took part in hackathons, which were great for testing teamwork, creativity, and working under pressure.
 
-Above all, I enjoy learning, whether it's delving into the inner workings of the universe or discovering how things operate behind the scenes, I'm always searching for the next "wait... what?" moment..
+Above all, I enjoy learning, whether it's delving into the inner workings of the universe or discovering how things operate behind the scenes, I'm always searching for the next "wait... what?" moment..  
 Feel free to connect if you'd like to chat, collaborate, or geek out about space and science :)
 
 Cheers!
